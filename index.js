@@ -51,7 +51,7 @@ client.on('message', message => {
 		});
 });
 
-//client.login('Njg2NzA3Mjc4MDc4MDE3NTc2.XmbI-A.2WGl0WjzYOsP2eeRjgivbi6VJD8'); Veraltete Form, wird durch config.json abgelöst (siehe nächste Zeile)
+//client.login(''); Veraltete Form, wird durch config.json abgelöst (siehe nächste Zeile)
 //client.login(config.token);
 client.login(token);
 
